@@ -1,7 +1,7 @@
 # NLP
-This folder contains all the work that I have done in my intro to NLP class. \\
-The critiques are collection of ideas after reading six research articles.\\
-The jupyter files are project scripts.\\
+This folder contains all the work that I have done in my intro to NLP class. <br />
+The critiques are collection of ideas after reading six research articles.<br />
+The jupyter files are project scripts.<br />
 [Hotel Review Classification](https://github.com/ShuEmily/NLP/blob/main/LMReviewClassification.ipynb): This project is to use n-gram-based language model and Naïve Bayes 
 model to decide whether a hotel review is deceptive or truthful. In the process, I implemented 
 add-k smoothing method and handled unknown words. Further based on perplexity score and final 
